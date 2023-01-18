@@ -1,0 +1,1 @@
+Get-Service >> C:\Users\Administrator\Documents\services.txt
